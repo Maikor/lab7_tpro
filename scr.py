@@ -1,4 +1,8 @@
 # author mike
 print 'heya'
-print "conflict here"
+<<<<<<< HEAD
 
+
+=======
+print " new changes"
+>>>>>>> secFile
